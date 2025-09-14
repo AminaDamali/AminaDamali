@@ -4,8 +4,6 @@
 State Engineer in Computer Science & Networks, graduated from **Moroccan School of Engineering Sciences (EMSI)** | Open to Relocation 🌍  
 📍 Morocco | 🇪🇸 Spanish | 📞 +212 695169945  
 
-![Animated GIF](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
-
 ---
 
 ## 🚀 About Me
@@ -22,8 +20,6 @@ I have experience in **microservices, REST APIs, and modular architecture**, imp
 **DevOps & Cloud:** Docker, Kubernetes, AWS, Git, Jenkins, CI/CD  
 **API & Architecture:** REST APIs, GraphQL, Microservices, JWT, Apache Kafka  
 
-![Animated Tech](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
 ---
 
 ## 📂 Projects
@@ -34,20 +30,12 @@ I have experience in **microservices, REST APIs, and modular architecture**, imp
 - **Delegation Website** – Python/Django  
 - **E-commerce Meal Website** – Python/Django, SQLite  
 
-![Projects GIF](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif)
-
----
-
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
-![Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
 ---
 
 ## 📫 Contact Me
 - Email: mouna0681@gmail.com  
 - LinkedIn: [linkedin.com/in/amina-damali](https://linkedin.com/in/amina-damali)  
-- Phone: +212 695169945
+- Phone: +212 695169945  
 
 ---
 
