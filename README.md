@@ -14,14 +14,14 @@ I have experience in **microservices, REST APIs, and modular architecture**, imp
 
 ## 💻 Tech Stack
 
-**Frontend**: React, HTML/CSS, Bootstrap, JavaScript
-**Backend**: Java, Spring Boot, Java EE (JEE), Express.js, Node.js
-**Databases**: MySQL, SQLite, Oracle (basic knowledge), Spring Data JPA, Sequelize ORM
-**DevOps**: Docker, Git, CI/CD
-**Tools & Cloud**: GitHub, Postman, Railway, Vercel, Brevo (SMTP)
-**API & Architecture**: REST APIs, Microservices, JWT, Eureka, API Gateway, Apache Kafka
-**Languages**: Java, JavaScript, Python, SQL, C++ (basic knowledge)
-**Methodologies**: Agile, Scrum
+- **Frontend**: React, HTML/CSS, Bootstrap, JavaScript
+- **Backend**: Java, Spring Boot, Java EE (JEE), Express.js, Node.js
+- **Databases**: MySQL, SQLite, Oracle (basic knowledge), Spring Data JPA, Sequelize ORM
+- **DevOps**: Docker, Git, CI/CD
+- **Tools & Cloud**: GitHub, Postman, Railway, Vercel, Brevo (SMTP)
+- **API & Architecture**: REST APIs, Microservices, JWT, Eureka, API Gateway, Apache Kafka
+- **Languages**: Java, JavaScript, Python, SQL, C++ (basic knowledge)
+- **Methodologies**: Agile, Scrum
 
 
 ---
