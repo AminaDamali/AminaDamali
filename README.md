@@ -19,7 +19,7 @@ I have experience in **microservices, REST APIs, and modular architecture**, imp
 - **Databases**: MySQL, SQLite, Oracle (basic knowledge), Spring Data JPA, Sequelize ORM
 - **DevOps**: Docker, Git, CI/CD
 - **Tools & Cloud**: GitHub, Postman, Railway, Vercel, Brevo (SMTP)
-- **API & Architecture**: REST APIs, Microservices, JWT, Eureka, API Gateway, Apache Kafka
+- **API & Architecture**: REST APIs, Microservices, JWT, Eureka, API Gateway
 - **Languages**: Java, JavaScript, Python, SQL, C++ (basic knowledge)
 - **Methodologies**: Agile, Scrum
 
