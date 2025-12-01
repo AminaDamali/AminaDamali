@@ -27,10 +27,10 @@ I have experience in **microservices, REST APIs, and modular architecture**, imp
 ---
 
 ## 📂 Projects
-- **Mini-erp** – Java/Spring Boot, React, MySQL
-- **Careapp** – Java/Spring Boot, React, MySQL
-- **Social Barometer Information System** – Node.js, Express.js, React, MySQL  
-- **HR & Client Management System** – Java/Spring Boot, HTML/CSS, MySQL  
+- **Mini-erp** – Java/Spring Boot, React, MySQL (Api Rest + MVC Microservices Architecture using Eureka Discovery Server + API Gateway)
+- **Careapp** – Java/Spring Boot, MySQL (Api Rest + MVC Microservices Architecture using Eureka Discovery Server + API Gateway)
+- **Social Barometer Information System** – Node.js, Express.js, React, MySQL (Api Rest + MVC Modular Monolothique Architecture) (Railway + Vercel for deployment)
+- **HR & Client Management System** – Java/Spring Boot, HTML/CSS, MySQL (Api Rest + MVC Modular Monolothique Architecture)  
 - **Restaurant Directory** – PHP, MySQL  
 - **Delegation Website** – Python/Django  
 - **E-commerce Meal Website** – Python/Django, SQLite  
