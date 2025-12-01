@@ -27,9 +27,10 @@ I have experience in **microservices, REST APIs, and modular architecture**, imp
 ---
 
 ## 📂 Projects
-
+- **Mini-erp** – Java/Spring Boot, React, MySQL
+- **Careapp** – Java/Spring Boot, React, MySQL
 - **Social Barometer Information System** – Node.js, Express.js, React, MySQL  
-- **HR & Client Management System** – Java/Spring Boot  
+- **HR & Client Management System** – Java/Spring Boot, HTML/CSS, MySQL  
 - **Restaurant Directory** – PHP, MySQL  
 - **Delegation Website** – Python/Django  
 - **E-commerce Meal Website** – Python/Django, SQLite  
